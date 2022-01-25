@@ -1,0 +1,337 @@
+# depslib dependency file v1.0
+1572068603 source:d:\programmation\projets_codeblocks\ncurses\prj_base_ncurses\src\main.c
+	<ncurses.h>
+
+1571532702 d:\programmation\projets_codeblocks\ncurses\prj_base_ncurses\include\ncursesw\ncurses.h
+	<ncursesw/ncurses_dll.h>
+	<stdint.h>
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdbool.h>
+	<libutf8.h>
+	<wchar.h>
+	<ncursesw/unctrl.h>
+
+1571532702 d:\programmation\projets_codeblocks\ncurses\prj_base_ncurses\include\ncursesw\ncurses_dll.h
+
+1571532702 d:\programmation\projets_codeblocks\ncurses\prj_base_ncurses\include\ncursesw\unctrl.h
+	<ncursesw/curses.h>
+
+1571532702 d:\programmation\projets_codeblocks\ncurses\prj_base_ncurses\include\ncursesw\curses.h
+	<ncursesw/ncurses_dll.h>
+	<stdint.h>
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdbool.h>
+	<libutf8.h>
+	<wchar.h>
+	<ncursesw/unctrl.h>
+
+1585045007 source:d:\programmation\projets_codeblocks\ncurses\prj_base_ncurses_c\src\main.c
+	<stdlib.h>
+	<ncurses.h>
+	"ncurses_addons.h"
+
+1634504761 d:\programmation\projets_codeblocks\ncurses\prj_base_ncurses_c\include\ncursesw\ncurses.h
+	<ncursesw/ncurses_dll.h>
+	<stdint.h>
+	<stdnoreturn.h>
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdbool.h>
+	<libutf8.h>
+	<wchar.h>
+	<ncursesw/unctrl.h>
+
+1634504762 d:\programmation\projets_codeblocks\ncurses\prj_base_ncurses_c\include\ncursesw\ncurses_dll.h
+
+1634504762 d:\programmation\projets_codeblocks\ncurses\prj_base_ncurses_c\include\ncursesw\unctrl.h
+	<ncursesw/curses.h>
+
+1634504761 d:\programmation\projets_codeblocks\ncurses\prj_base_ncurses_c\include\ncursesw\curses.h
+	<ncursesw/ncurses_dll.h>
+	<stdint.h>
+	<stdnoreturn.h>
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdbool.h>
+	<libutf8.h>
+	<wchar.h>
+	<ncursesw/unctrl.h>
+
+1585043942 d:\programmation\projets_codeblocks\ncurses\prj_base_ncurses_c\include\ncurses_addons.h
+	<ncurses.h>
+
+1585044629 source:d:\programmation\projets_codeblocks\ncurses\prj_base_ncurses_c\src\ncurses_addons.c
+	<stdlib.h>
+	"ncurses_addons.h"
+
+1576688539 source:d:\travail\ifips_optronique\ci1a_apprentissage\langage_et_methodologie\tp\tp2_3a_apprentis_geo_langage_methodologie\ressources\prj_base_ncurses_c\src\main.c
+	<stdlib.h>
+	<ncurses.h>
+	"ncurses_addons.h"
+
+1571529102 d:\travail\ifips_optronique\ci1a_apprentissage\langage_et_methodologie\tp\tp2_3a_apprentis_geo_langage_methodologie\ressources\prj_base_ncurses_c\include\ncursesw\ncurses.h
+	<ncursesw/ncurses_dll.h>
+	<stdint.h>
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdbool.h>
+	<libutf8.h>
+	<wchar.h>
+	<ncursesw/unctrl.h>
+
+1571529102 d:\travail\ifips_optronique\ci1a_apprentissage\langage_et_methodologie\tp\tp2_3a_apprentis_geo_langage_methodologie\ressources\prj_base_ncurses_c\include\ncursesw\ncurses_dll.h
+
+1571529102 d:\travail\ifips_optronique\ci1a_apprentissage\langage_et_methodologie\tp\tp2_3a_apprentis_geo_langage_methodologie\ressources\prj_base_ncurses_c\include\ncursesw\unctrl.h
+	<ncursesw/curses.h>
+
+1571529102 d:\travail\ifips_optronique\ci1a_apprentissage\langage_et_methodologie\tp\tp2_3a_apprentis_geo_langage_methodologie\ressources\prj_base_ncurses_c\include\ncursesw\curses.h
+	<ncursesw/ncurses_dll.h>
+	<stdint.h>
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdbool.h>
+	<libutf8.h>
+	<wchar.h>
+	<ncursesw/unctrl.h>
+
+1576688525 d:\travail\ifips_optronique\ci1a_apprentissage\langage_et_methodologie\tp\tp2_3a_apprentis_geo_langage_methodologie\ressources\prj_base_ncurses_c\include\ncurses_addons.h
+	<ncurses.h>
+
+1572069030 source:d:\travail\ifips_optronique\ci1a_apprentissage\langage_et_methodologie\tp\tp2_3a_apprentis_geo_langage_methodologie\ressources\prj_base_ncurses_c\src\ncurses_addons.c
+	<stdlib.h>
+	"ncurses_addons.h"
+
+1585041029 source:c:\users\cccccc\desktop\prj_base_ncurses_c\src\ncurses_addons.c
+	<stdlib.h>
+	"ncurses_addons.h"
+
+1585040342 c:\users\cccccc\desktop\prj_base_ncurses_c\include\ncurses_addons.h
+	<ncurses.h>
+
+1571529102 c:\users\cccccc\desktop\prj_base_ncurses_c\include\ncursesw\ncurses.h
+	<ncursesw/ncurses_dll.h>
+	<stdint.h>
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdbool.h>
+	<libutf8.h>
+	<wchar.h>
+	<ncursesw/unctrl.h>
+
+1571529102 c:\users\cccccc\desktop\prj_base_ncurses_c\include\ncursesw\ncurses_dll.h
+
+1571529102 c:\users\cccccc\desktop\prj_base_ncurses_c\include\ncursesw\unctrl.h
+	<ncursesw/curses.h>
+
+1571529102 c:\users\cccccc\desktop\prj_base_ncurses_c\include\ncursesw\curses.h
+	<ncursesw/ncurses_dll.h>
+	<stdint.h>
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdbool.h>
+	<libutf8.h>
+	<wchar.h>
+	<ncursesw/unctrl.h>
+
+1585039595 source:c:\users\cccccc\desktop\prj_base_ncurses_c\src\obj_graphiques.c
+	"obj_graphiques.h"
+
+1585039595 c:\users\cccccc\desktop\prj_base_ncurses_c\include\obj_graphiques.h
+
+1585040457 source:c:\users\cccccc\desktop\prj_base_ncurses_c\src\main.c
+	<stdlib.h>
+	<ncurses.h>
+	"ncurses_addons.h"
+	"obj_graphiques.h"
+
+1585041407 source:d:\programmation\projets_codeblocks\ncurses\prj_base_ncurses_c_64bits\src\main.c
+	<stdlib.h>
+	<ncurses.h>
+	"ncurses_addons.h"
+
+1634501161 d:\programmation\projets_codeblocks\ncurses\prj_base_ncurses_c_64bits\include\ncursesw\ncurses.h
+	<ncursesw/ncurses_dll.h>
+	<stdint.h>
+	<stdnoreturn.h>
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdbool.h>
+	<libutf8.h>
+	<wchar.h>
+	<ncursesw/unctrl.h>
+
+1634501162 d:\programmation\projets_codeblocks\ncurses\prj_base_ncurses_c_64bits\include\ncursesw\ncurses_dll.h
+
+1634501162 d:\programmation\projets_codeblocks\ncurses\prj_base_ncurses_c_64bits\include\ncursesw\unctrl.h
+	<ncursesw/curses.h>
+
+1634501161 d:\programmation\projets_codeblocks\ncurses\prj_base_ncurses_c_64bits\include\ncursesw\curses.h
+	<ncursesw/ncurses_dll.h>
+	<stdint.h>
+	<stdnoreturn.h>
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdbool.h>
+	<libutf8.h>
+	<wchar.h>
+	<ncursesw/unctrl.h>
+
+1585040342 d:\programmation\projets_codeblocks\ncurses\prj_base_ncurses_c_64bits\include\ncurses_addons.h
+	<ncurses.h>
+
+1585041029 source:d:\programmation\projets_codeblocks\ncurses\prj_base_ncurses_c_64bits\src\ncurses_addons.c
+	<stdlib.h>
+	"ncurses_addons.h"
+
+1639403962 source:c:\users\mdoresm\documents\prj_base_ncurses_c_64bits\src\main.c
+	<stdlib.h>
+	<ncurses.h>
+	"ncurses_addons.h"
+	"obj_graphiques.h"
+
+1634501161 c:\users\mdoresm\documents\prj_base_ncurses_c_64bits\include\ncursesw\ncurses.h
+	<ncursesw/ncurses_dll.h>
+	<stdint.h>
+	<stdnoreturn.h>
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdbool.h>
+	<libutf8.h>
+	<wchar.h>
+	<ncursesw/unctrl.h>
+
+1634501162 c:\users\mdoresm\documents\prj_base_ncurses_c_64bits\include\ncursesw\ncurses_dll.h
+
+1634501162 c:\users\mdoresm\documents\prj_base_ncurses_c_64bits\include\ncursesw\unctrl.h
+	<ncursesw/curses.h>
+
+1634501161 c:\users\mdoresm\documents\prj_base_ncurses_c_64bits\include\ncursesw\curses.h
+	<ncursesw/ncurses_dll.h>
+	<stdint.h>
+	<stdnoreturn.h>
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdbool.h>
+	<libutf8.h>
+	<wchar.h>
+	<ncursesw/unctrl.h>
+
+1639403912 c:\users\mdoresm\documents\prj_base_ncurses_c_64bits\include\ncurses_addons.h
+	<ncurses.h>
+
+1585041029 source:c:\users\mdoresm\documents\prj_base_ncurses_c_64bits\src\ncurses_addons.c
+	<stdlib.h>
+	"ncurses_addons.h"
+
+1639405929 c:\users\mdoresm\documents\prj_base_ncurses_c_64bits\include\obj_graphiques.h
+
+1639481820 source:c:\users\mdoresm\desktop\prj_base_ncurses_c_64bits\src\ncurses_addons.c
+	<stdlib.h>
+	"ncurses_addons.h"
+
+1639481820 c:\users\mdoresm\desktop\prj_base_ncurses_c_64bits\include\ncurses_addons.h
+	<ncurses.h>
+
+1639481820 c:\users\mdoresm\desktop\prj_base_ncurses_c_64bits\include\ncursesw\ncurses.h
+	<ncursesw/ncurses_dll.h>
+	<stdint.h>
+	<stdnoreturn.h>
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdbool.h>
+	<libutf8.h>
+	<wchar.h>
+	<ncursesw/unctrl.h>
+
+1639481820 c:\users\mdoresm\desktop\prj_base_ncurses_c_64bits\include\ncursesw\ncurses_dll.h
+
+1639481820 c:\users\mdoresm\desktop\prj_base_ncurses_c_64bits\include\ncursesw\unctrl.h
+	<ncursesw/curses.h>
+
+1639481820 c:\users\mdoresm\desktop\prj_base_ncurses_c_64bits\include\ncursesw\curses.h
+	<ncursesw/ncurses_dll.h>
+	<stdint.h>
+	<stdnoreturn.h>
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdbool.h>
+	<libutf8.h>
+	<wchar.h>
+	<ncursesw/unctrl.h>
+
+1639499679 source:c:\users\mdoresm\desktop\prj_base_ncurses_c_64bits\src\main.c
+	<stdlib.h>
+	<ncurses.h>
+	"ncurses_addons.h"
+	"obj_graphiques.h"
+
+1639500109 c:\users\mdoresm\desktop\prj_base_ncurses_c_64bits\include\obj_graphiques.h
+
+1639500162 source:c:\users\mdoresm\desktop\prj_base_ncurses_c_64bits\src\obj_graphiques.c
+	"obj_graphiques.h"
+	"ncurses_addons.h"
+
+1639754089 source:c:\users\jsese\desktop\prj_base_ncurses_c_64bits2\src\main.c
+	<stdlib.h>
+	<ncurses.h>
+	"ncurses_addons.h"
+	"obj_graphiques.h"
+
+1639750200 c:\users\jsese\desktop\prj_base_ncurses_c_64bits2\include\ncursesw\ncurses.h
+	<ncursesw/ncurses_dll.h>
+	<stdint.h>
+	<stdnoreturn.h>
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdbool.h>
+	<libutf8.h>
+	<wchar.h>
+	<ncursesw/unctrl.h>
+
+1639750200 c:\users\jsese\desktop\prj_base_ncurses_c_64bits2\include\ncursesw\ncurses_dll.h
+
+1639750200 c:\users\jsese\desktop\prj_base_ncurses_c_64bits2\include\ncursesw\unctrl.h
+	<ncursesw/curses.h>
+
+1639750200 c:\users\jsese\desktop\prj_base_ncurses_c_64bits2\include\ncursesw\curses.h
+	<ncursesw/ncurses_dll.h>
+	<stdint.h>
+	<stdnoreturn.h>
+	<stdio.h>
+	<stdarg.h>
+	<stddef.h>
+	<stdbool.h>
+	<libutf8.h>
+	<wchar.h>
+	<ncursesw/unctrl.h>
+
+1639750200 c:\users\jsese\desktop\prj_base_ncurses_c_64bits2\include\ncurses_addons.h
+	<ncurses.h>
+
+1639750200 c:\users\jsese\desktop\prj_base_ncurses_c_64bits2\include\obj_graphiques.h
+
+1639750260 source:c:\users\jsese\desktop\prj_base_ncurses_c_64bits2\src\ncurses_addons.c
+	<stdlib.h>
+	"ncurses_addons.h"
+
+1639750260 source:c:\users\jsese\desktop\prj_base_ncurses_c_64bits2\src\obj_graphiques.c
+	"obj_graphiques.h"
+	"ncurses_addons.h"
+
